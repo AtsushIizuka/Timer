@@ -39,7 +39,6 @@ start.addEventListener("click", function(e) {
       elapsed += now - pre;
       pre = now ;
       updateTime()
-      //console.log(elapsed);
   },10);
 });
 

@@ -1,0 +1,25 @@
+#time {
+    margin-left: 2%;
+    margin-bottom: 0.25%;
+    width: 100%;
+    
+}
+
+#start {
+    padding: 3px;
+    width: 4%;
+    cursor: pointer;
+}
+
+#stop {
+    padding: 3px;
+    width: 4%;
+    cursor: pointer;
+}
+
+#reset{
+    padding: 3px;
+    width: 4%;
+    cursor: pointer;
+}
+
